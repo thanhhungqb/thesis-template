@@ -1,0 +1,87 @@
+\documentclass[12pt,a4paper,oneside]{book} % twoside for draf
+
+%\usepackage{babel}
+\usepackage[utf8]{vietnam}
+%\usepackage{times}
+%\usepackage{graphicx}
+
+\usepackage{mathptmx}	% same Time New Roma
+%\renewcommand{\rmdefault}{phv} % Arial
+%\renewcommand{\sfdefault}{phv} % Arial
+
+\usepackage{fancyhdr}
+\usepackage{algorithm2e}
+
+\usepackage{bkthesis}
+
+%\csdeptname{KHOA ĐIỆN ĐIỆN TỬ}
+%\crname{BÁO CÁO THỰC TẬP TỐT NGHIỆP}
+%\ctname{TÊN LUẬN VĂN / ĐỒ ÁN}
+\cstuname{SVTH 1: Nguyễn Văn An (5...)\\SVTH 2: Phạm Bình Minh (...)}
+
+\csCouncil{Khoa học máy tính}
+\csSupervise{TS. Nguyen ..\\Th.S Pham Thi}
+\csReviewer{TS. Pham Van Hai}
+\cttime{12/2015}
+
+\thesislayout
+
+\begin{document}
+%-	Bìa cứng - màu xanh dương, chữ mạ vàng (xem mẫu đính kèm)
+%-	Trang tên (tờ lót): chất liệu giấy, nội dung giống như bìa LV
+%-	Ở gáy LV: in nhan đề LV (có thể in tóm tắt nếu nhan đề quá dài), size 15 – 17
+%-	Phiếu Nhiệm vụ LV, chấm điểm Hướng dẫn & Phản biện (đã ký): nhận từ GVHD & GVPB sau khi bảo vệ (theo lịch hẹn).
+%-	Lời cam đoan
+%-	Lời cảm ơn/ Lời ngỏ
+%-	Tóm tắt LV
+%-	Mục lục
+%-	Danh mục, bảng biểu, hình ảnh, ... (nếu có)
+%-	Nội dung LV
+%-	Danh mục TL tham khảo
+%-	Phụ lục (nếu có)
+
+\coverpage
+
+\frontmatter
+
+% add content here
+%-	Lời cam đoan
+\begin{declaration}
+	Tôi xin cam đoan...
+\end{declaration}
+
+%-	Lời cảm ơn/ Lời ngỏ
+\begin{acknowledgments}
+	Tôi xin chân thành cảm ơn ...
+\end{acknowledgments}
+
+%-	Tóm tắt LV
+\begin{abstract}
+	Tóm tắt luận văn ...
+\end{abstract}	
+	
+\tableofcontents
+%\listofsymbols
+\listoftables
+\listoffigures
+%\listofalgorithms
+
+
+\mainmatter
+
+\fancyhead{}  % Clears all page headers and footers
+%\rhead{\thepage}  % Sets the right side header to show the page number
+%\lhead{}  % Clears the left side page header
+%\fancyfoot[positions]{footer}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\pagestyle{fancy}  % Finally, use the "fancy" page style to implement the FancyHdr headers
+
+\input{demo-Chapter1.tex}
+%\input{demo-Chapter2.tex}
+%\input{Chapter3.tex}
+
+%-	Danh mục TL tham khảo
+%-	Phụ lục (nếu có)
+
+\end{document}
