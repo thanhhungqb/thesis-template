@@ -11,6 +11,8 @@
 \RequirePackage{vietnam}
 \RequirePackage{geometry}
 
+\usepackage{tikz}
+\usetikzlibrary{calc}
 \usepackage{indentfirst}
 
 % \usepackage{geometry}
@@ -55,8 +57,19 @@
 % \addtolength{\voffset}{-2.5cm}
 % \addtolength{\textwidth}{-2cm}
 
-\fbox{
+% \fbox{
 \begin{minipage}[b][25.5cm][t]{15cm}
+\begin{tikzpicture}[remember picture, overlay]
+%   \draw[line width = 4pt] ($(current page.north west) + (1in,-1in)$) rectangle ($(current page.south east) + (-1in,1in)$);
+\draw [line width=1pt]
+    ($ (current page.north west) + (3.0cm,-2.0cm) $)
+    rectangle
+    ($ (current page.south east) + (-1.5cm,1.5cm) $);
+\draw [line width=3pt]
+    ($ (current page.north west) + (3.15cm,-2.15cm) $)
+    rectangle
+    ($ (current page.south east) + (-1.65cm,1.65cm) $); 
+\end{tikzpicture}
 
 \begin{center}
 \begin{large}
@@ -81,7 +94,7 @@ TRƯỜNG ĐẠI HỌC BÁCH KHOA\\
 	\parbox[t][1.5cm]{10cm}{\@stuname}
 }
 }
-\vspace{2.8cm}
+\vspace{2.5cm}
 \begin{center}
  {\fontsize{14}{1}\selectfont TP. HỒ CHÍ MINH, \@ttime }\\
 
@@ -89,7 +102,7 @@ TRƯỜNG ĐẠI HỌC BÁCH KHOA\\
 
 \end{minipage}
 }
-}
+% }
 
 \def\makeprintversion{}
 
