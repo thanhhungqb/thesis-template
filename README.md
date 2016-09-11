@@ -9,11 +9,13 @@ github link: https://github.com/thanhhungqb/thesis-template
 overleaf link: https://www.overleaf.com/6137110fdmjmb
 
 # Sử dụng template này
-Nếu bạn thấy mẫu này hữu ích và bắt đầu muốn sử dụng chúng thì bạn có thể làm theo 2 cách:
+Nếu bạn thấy mẫu này hữu ích và bắt đầu muốn sử dụng chúng thì bạn có thể làm theo 3 cách:
 
 1) clone từ github theo đường link ở trên
 
-2) clone project này, xin lưu ý rằng, project này là để chia sẽ nên đừng thêm nội dung của bạn trực tiếp vào đây (vì nó sẽ bị người khác xem và chỉnh sửa) hãy:
+2) Goto http://tiny.cc/report_template
+
+3) clone project này, xin lưu ý rằng, project này là để chia sẽ nên đừng thêm nội dung của bạn trực tiếp vào đây (vì nó sẽ bị người khác xem và chỉnh sửa) hãy:
 
 - đăng nhập (có thể dùng tài khoản gmail để đăng nhập hoặc tạo mới tài khoản https://www.overleaf.com/signup?ref=5472aa942f33)
 
