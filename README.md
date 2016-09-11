@@ -4,5 +4,23 @@
 
 Mẫu này được thiết kế sử dụng cho sinh viên khoa máy tính ở Đại học Bách Khoa, Đại học Quốc Gia Hồ Chí Minh. Các sinh viên khác cũng có thể sử dụng nếu thấy mẫu trình bày hữu ích.
 
+github link: https://github.com/thanhhungqb/thesis-template
+
+overleaf link: https://www.overleaf.com/6137110fdmjmb
+
+# Sử dụng template này
+Nếu bạn thấy mẫu này hữu ích và bắt đầu muốn sử dụng chúng thì bạn có thể làm theo 2 cách:
+
+- clone từ github theo đường link ở trên
+
+- clone project này, xin lưu ý rằng, project này là để chia sẽ nên đừng thêm nội dung của bạn trực tiếp vào đây (vì nó sẽ bị người khác xem và chỉnh sửa) hãy:
+
+1) đăng nhập (có thể dùng tài khoản gmail để đăng nhập hoặc tạo mới tài khoản https://www.overleaf.com/signup?ref=5472aa942f33)
+
+2) vào lại project này (refresh trang: https://www.overleaf.com/6137110fdmjmb)
+
+3) vào https://www.overleaf.com/dash bạn sẽ thấy project này, chọn "Open a Copy" ở menu nhỏ góc dưới bên phải của project, bạn đã có một bản copy của riêng bạn để bắt đầu làm việc
+
+
 Hoan nghênh mọi góp ý cũng như đóng góp của các bạn.
 
