@@ -15,7 +15,7 @@ Nếu bạn thấy mẫu này hữu ích và bắt đầu muốn sử dụng ch�
 
 2) Clone Overleaf project (bạn có thể download xuống máy hoặc soạn thảo online trực tiếp ở Overleaf):
 
-- Đăng nhập (có thể dùng tài khoản Gmail để đăng nhập hoặc tạo mới tài khoản https://www.overleaf.com/signup?ref=5472aa942f33)
+- Đăng nhập (có thể dùng tài khoản Gmail để đăng nhập hoặc tạo mới tài khoản https://www.overleaf.com?r=2f24873e&rm=d&rs=b)
 
 - Vào lại Overleaf project (refresh trang: https://www.overleaf.com/read/mhtyqqdbdbmg) và tạo bản copy để bắt đầu làm việc
 
