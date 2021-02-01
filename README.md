@@ -1,4 +1,4 @@
-# thesis-template
+# HCMUT Thesis/Dissertation Template
 
 Đây là template sử dụng trong trình bày báo cáo luận văn tốt nghiệp cũng như thực tập tốt nghiệp. Ngoài ra, template này cũng có thể được sử dụng cho các báo cáo khác.
 
@@ -13,7 +13,9 @@ Nếu bạn thấy mẫu này hữu ích và bắt đầu muốn sử dụng ch�
 
 1) Clone từ github theo đường link ở trên
 
-2) Clone Overleaf project (bạn có thể download xuống máy hoặc soạn thảo online trực tiếp ở Overleaf):
+2) Tạo từ template ở Overleaf: https://www.overleaf.com/latex/templates/hcmut-thesis-slash-dissertation-template/zsbhtnzktbsy
+
+3) Clone Overleaf project (bạn có thể download xuống máy hoặc soạn thảo online trực tiếp ở Overleaf):
 
 - Đăng nhập (có thể dùng tài khoản Gmail để đăng nhập hoặc tạo mới tài khoản https://www.overleaf.com?r=2f24873e&rm=d&rs=b)
 
