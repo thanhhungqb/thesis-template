@@ -15,12 +15,8 @@ Nếu bạn thấy mẫu này hữu ích và bắt đầu muốn sử dụng ch�
 
 2) Tạo từ template ở Overleaf: https://www.overleaf.com/latex/templates/hcmut-thesis-slash-dissertation-template/zsbhtnzktbsy
 
-3) Clone Overleaf project (bạn có thể download xuống máy hoặc soạn thảo online trực tiếp ở Overleaf):
-
-- Đăng nhập (có thể dùng tài khoản Gmail để đăng nhập hoặc tạo mới tài khoản https://www.overleaf.com?r=2f24873e&rm=d&rs=b)
-
+3) Clone Overleaf project:
+- Đăng nhập Overleaf (có thể dùng tài khoản Gmail để đăng nhập hoặc [tạo mới tài khoản ](https://www.overleaf.com?r=2f24873e&rm=d&rs=b))
 - Vào lại Overleaf project (refresh trang: https://www.overleaf.com/read/mhtyqqdbdbmg) và tạo bản copy để bắt đầu làm việc
 
-
 Hoan nghênh mọi góp ý cũng như đóng góp của các bạn.
-
